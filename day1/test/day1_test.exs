@@ -7,6 +7,6 @@ defmodule Day1Test do
   end
 
   test "solves the puzzle for three numbers" do
-    assert Day1.find_answer_for_three_numbers == 0
+    assert Day1.find_answer_for_three_numbers == 111605670
   end
 end
